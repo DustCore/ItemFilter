@@ -213,3 +213,28 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#############
+## Netbeans
+#############
+nbproject/
+nbactions.xml
+
+#############
+## maven
+#############
+target/
+dependency-reduced-pom.xml
+
+#############
+## Mac filesystem dust
+#############
+.DS_Store/
+
+#############
+## intellij
+#############
+*.iml
+*.ipr
+*.iws
+.idea/
