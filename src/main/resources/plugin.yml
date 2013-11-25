@@ -1,0 +1,9 @@
+name: ItemFilter
+main: net.choicecraft.ItemFilter
+version: 1.0
+commands:
+   itemfilter:
+      description: Main ItemFilter command
+      usage: /if [reload | list | purge]
+      permission: itemfilter.admin
+      aliases: if
